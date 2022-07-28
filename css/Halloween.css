@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(250, 215, 201);
+    Width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+div {
+    Width: 100%; 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#prompt {
+    color: rgb(184, 102, 1);
+}
