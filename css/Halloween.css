@@ -5,6 +5,7 @@ body {
     flex-direction: column;
     flex-wrap: wrap;
     justify-content: center;
+    font-family: 'Roboto', sans-serif;
 }
 
 div {
@@ -16,4 +17,20 @@ div {
 
 #prompt {
     color: rgb(184, 102, 1);
+}
+
+h1 {
+    font-size: 70px;
+    Width: 100%; 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+p {
+    font-size: 40px;
+    Width: 100%; 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
