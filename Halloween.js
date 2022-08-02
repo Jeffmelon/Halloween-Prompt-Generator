@@ -15,8 +15,9 @@ let promptList = [
     `"You're not going to believe what I found!"`,"Forbidden Knowledge","Plague Doctor","Haunted Painting","Pumpkin Patch","Mascot Costume","Horns","Body Horror",
     "Candy Gore","Man in the Woods","Horror Hotel","Cosmic Horror","Mechanical","Spirals","The Garden","Big Bad Wolf","Campfire Story","Scaredy Cat","Spiders",
     "Randonauting","Deep Underground","Susurrus","Someone right Behind you","Alone","Infection","Mushrooms","Lantern","Old Cartoons","The Arcade","Notebook",
-    "Walking down the road","Town Square","Lantern Light","Warning Signs","Toxic","Eyes","Sharp Teeth","Lighthouse","Witches Hat","Potion Making","Lovecraftian"
-    
+    "Walking down the road","Town Square","Lantern Light","Warning Signs","Toxic","Eyes","Sharp Teeth","Lighthouse","Witches Hat","Potion Making","Lovecraftian",
+    "Bedsheet Ghost","Swamp","Buried Alive","Burned","Stabbing",`"Run Away!"`,`"He's in the house!"`,"Boo!","Creepy Dolls","Black Goat"
+   
 ]
 
 function random(prompts) {
