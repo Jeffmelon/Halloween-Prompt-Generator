@@ -20,7 +20,7 @@ div {
 }
 
 h1 {
-    font-size: 70px;
+    font-size: 50px;
     Width: 100%; 
     display: flex;
     flex-wrap: wrap;
@@ -28,7 +28,7 @@ h1 {
 }
 
 p {
-    font-size: 40px;
+    font-size: 20px;
     Width: 100%; 
     display: flex;
     flex-wrap: wrap;
