@@ -20,11 +20,13 @@ div {
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 40px;
+    padding: 0px 20px;
     Width: 100%; 
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    text-align: center;
 }
 
 p {
@@ -33,4 +35,6 @@ p {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    text-align: center;
+    padding: 0px 20px;
 }
