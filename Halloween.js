@@ -105,7 +105,6 @@ let promptList = ["Convenience Store",
     "Podcast",
     "Halloween Decor",
     "Fortune Teller",
-    `"You're not going to believe what I found!"`,
     "Forbidden Knowledge",
     "Plague Doctor",
     "Haunted Painting",
@@ -179,7 +178,16 @@ let promptList = ["Convenience Store",
     "Ghost Ship",
     "Cobwebs",
     "Prize Winning Pumpkin",
-    "The Projectionist"]
+    "The Projectionist",
+    "Impossible Geometries",
+    "Football",
+    "Fall Gods",
+    `“It was a dark and stormy night!”`,
+    "Teenagers",
+    "Monster Masks",
+    "Hexes and Curses",
+    "Ecentric Neighbors",
+    `"You're not going to believe what I found!"`]
 
 function random(prompts) {
     let n = Math.floor(Math.random() * (prompts.length))
