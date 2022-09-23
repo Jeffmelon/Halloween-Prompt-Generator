@@ -152,7 +152,7 @@ let promptList = ["Convenience Store",
     "Buried Alive",
     "Burned",
     "Stabbing",
-    `"Run Away!"`,
+    "The Town at Night",
     `"He's in the house!"`,
     "Boo!",
     "Creepy Dolls",
@@ -187,7 +187,18 @@ let promptList = ["Convenience Store",
     "Monster Masks",
     "Hexes and Curses",
     "Ecentric Neighbors",
-    `"You're not going to believe what I found!"`]
+    `"You're not going to believe what I found!"`,
+    `"Don't go in the basement"`,
+    "Hospital",
+    "Detective",
+    "Lumberjack",
+    "Preacher",
+    "Pickup Truck",
+    "Ghost Hunting",
+    "Monsters at the Mall",
+    "Outskirts of Town",
+    "Emo, Goth or Punk"
+]
 
 function random(prompts) {
     let n = Math.floor(Math.random() * (prompts.length))
