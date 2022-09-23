@@ -23,7 +23,7 @@ let promptList = ["Convenience Store",
     "Fashionable Werewolf",
     "Early Snow",
     "Library",
-    "Punk Kids",
+    "Emo, Goth or Punk",
     "Deep in the Forest",
     "Up in the Attic",
     "Button-Eyed Scarecrow",
@@ -168,7 +168,6 @@ let promptList = ["Convenience Store",
     "Silent Stalker",
     "Foreign Monsters",
     "Poltergeist Prankster",
-    "Murder Mystery",
     "Childhood Monster",
     "Invader",
     "Apocalypse",
@@ -196,8 +195,7 @@ let promptList = ["Convenience Store",
     "Pickup Truck",
     "Ghost Hunting",
     "Monsters at the Mall",
-    "Outskirts of Town",
-    "Emo, Goth or Punk"
+    "Outskirts of Town"
 ]
 
 function random(prompts) {
