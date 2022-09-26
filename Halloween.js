@@ -118,14 +118,13 @@ let promptList = ["Convenience Store",
     "Mechanical",
     "Spirals",
     "The Garden",
-    "Big Bad Wolf",
+    "Pack of Wolves",
     "Campfire Story",
     "Scaredy Cat",
     "Spiders",
     "Randonauting",
     "Deep Underground",
     "Susurrus",
-    "Someone right Behind you",
     "Alone",
     "Infection",
     "Mushrooms",
@@ -193,8 +192,11 @@ let promptList = ["Convenience Store",
     "Pickup Truck",
     "Ghost Hunting",
     "Monsters at the Mall",
-    "Outskirts of Town"
-]
+    "Outskirts of Town",
+    "Vintage Halloween", 
+    "Halloween Nostalgia",
+    "Halloween OC",
+    "Grave Digger"]
 
 function random(prompts) {
     let n = Math.floor(Math.random() * (prompts.length))
