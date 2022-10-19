@@ -196,7 +196,17 @@ let promptList = ["Convenience Store",
     "Vintage Halloween", 
     "Halloween Nostalgia",
     "Halloween OC",
-    "Grave Digger"]
+    "Grave Digger",
+    "Autumn Trees",
+    "Bike Ride",
+    "Corpse",
+    "Fairy",
+    "Trampoline",
+    "Roller Rink",
+    "Devil on your Shoulder",
+    "Out on the Lake",
+    "Tire Swing"
+]
 
 function random(prompts) {
     let n = Math.floor(Math.random() * (prompts.length))
