@@ -176,6 +176,7 @@ let promptList = ["13th",
     "Mushrooms",
     "Night Owl",
     "Notebook",
+    "Nuclear Boy Scout ☀️",
     "An Odd Artifact",
     "Old Cartoons",
     "The Old Rusty Bunker",
@@ -276,6 +277,7 @@ let promptList = ["13th",
     "Yokai",
     "You're not going to believe what I found!",
     "Your Psychic Friend",
+    "Yowie ☀️",
     "Zoo"
 ]
 
