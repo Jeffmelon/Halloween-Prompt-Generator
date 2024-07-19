@@ -42,7 +42,7 @@ let promptList = ["13th",
     "Buried Alive",
     "Burglar",
     "Burned",
-    "Butler/Maid"
+    "Butler/Maid",
     "Butterflies 🌸",
     "Button-Eyed Scarecrow",
     "By the Lakeside",
