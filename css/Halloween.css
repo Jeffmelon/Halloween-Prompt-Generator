@@ -23,6 +23,7 @@ div {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    padding: 0 .5rem;
 }
 
 #prompt {
@@ -30,7 +31,7 @@ div {
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 4rem;
     padding: 0px 20px;
     Width: 100%; 
     display: flex;
@@ -40,7 +41,7 @@ h1 {
 }
 
 p {
-    font-size: 20px;
+    font-size: 2rem;
     Width: 100%; 
     display: flex;
     flex-wrap: wrap;
